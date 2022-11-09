@@ -27,6 +27,7 @@ a door locker system using 2 ATmega32 one as HIMI_ECU and the other one as Contr
 ## Screenshots of Layered system of both HMI_ECU and Control_ECU
 
 ![App Screenshot1](https://i.ibb.co/YcML6mg/layered-HIMI.jpg)
+
 ![App Screenshot2](https://i.ibb.co/W5NgPSX/layered-Control-ECU.jpg)
 
 ## Screenshots of Simulation
