@@ -34,6 +34,7 @@ a door locker system using 2 ATmega32 one as HIMI_ECU and the other one as Contr
 
 ![App Screenshot3](https://i.ibb.co/V2hMb4Y/Simulation.jpg)
 
+![App Screenshot4](https://i.ibb.co/cD9wTsF/simulation2-JPG.jpg)
 ## Tools
 - Eclipse
 - Proteus
