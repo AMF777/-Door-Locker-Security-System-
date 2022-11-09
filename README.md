@@ -30,11 +30,10 @@ a door locker system using 2 ATmega32 one as HIMI_ECU and the other one as Contr
 
 ![App Screenshot2](https://i.ibb.co/W5NgPSX/layered-Control-ECU.jpg)
 
-## Screenshots of Simulation start
+## Screenshots of Simulation 
+
 ![App Screenshot3](https://i.ibb.co/V2hMb4Y/Simulation.jpg)
 
-
-## Screenshots of Simulation asking to open the door or change password
 
 ![App Screenshot4](https://i.ibb.co/cD9wTsF/simulation2-JPG.jpg)
 
